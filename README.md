@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+一个普通人，想要用GitHub记录下自己的生活，也希望能借此学习一些知识
+
+[我的博客](https://github.com/noteMay/noteMay.github.io)
