@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 - [起床打卡](https://github.com/noteMay/getup)
 - [睡觉打卡](https://github.com/noteMay/sleep)
-- [上班打卡](https://github.com/noteMay/check)
-- 下班打卡（待添加）
+- [上班打卡](https://github.com/noteMay/clockin)
+- [下班打卡](https://github.com/noteMay/Clockout)
