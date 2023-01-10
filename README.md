@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there May👋
 
 <!--
 **noteMay/noteMay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一个普通人，想要用GitHub记录下自己的生活，也希望能借此学习一些知识
+五月出生的一个普通人，想要用GitHub记录下自己的生活，也希望能借此学习一些知识
 
 [我的博客](https://noteMay.github.io)
 
