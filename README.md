@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 一个普通人，想要用GitHub记录下自己的生活，也希望能借此学习一些知识
 
 [我的博客](https://noteMay.github.io)
-参考了https://github.com/yihong0618和https://github.com/phh95整了几个打卡的，但是还不完善，会研究一下怎么弄成一个仓库
+
+参考了<https://github.com/yihong0618>和<https://github.com/phh95>
+整了几个打卡的，但是还不完善，会研究一下怎么弄成一个仓库
