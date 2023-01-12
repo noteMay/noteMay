@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 整了几个打卡的，但是还不完善，会研究一下怎么弄成一个仓库（做梦中）
 
-- [起床打卡](https://github.com/noteMay/getup/issues/1)
 - [睡觉打卡](https://github.com/noteMay/sleep/issues/1)
+- [起床打卡](https://github.com/noteMay/getup/issues/1)
 - [上班打卡](https://github.com/noteMay/clockin/issues/1)
 - [下班打卡](https://github.com/noteMay/clockout/issues/1)
