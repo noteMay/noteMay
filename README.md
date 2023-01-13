@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 五月出生的一个普通人，想要用GitHub记录下自己的生活，也希望能借此学习一些知识
 
-> 参考了<https://github.com/yihong0618>
+> 参考了<https://github.com/yihong0618>和<https://blog.leeyom.top/#/posts/38>
 
 整了个记录的博客[我的博客](https://blog.9852.life/)
 
