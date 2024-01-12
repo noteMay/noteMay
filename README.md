@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > 参考了<https://github.com/yihong0618>和<https://blog.leeyom.top/#/posts/38>
 
-整了个记录的博客[我的博客](https://blog.9852.life/)
+整了个记录的博客[我的博客](https://github.com/noteMay/blog/issues)
 
 -----
 
